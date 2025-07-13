@@ -54,22 +54,44 @@ Optimizer: Adam
 Loss: Mean Squared Error
 
 
+
+
 📂 Example Prediction Output (CSV)
+
+
+
+
+
 Date,Predicted_Price
 2025-07-13,184.21
 2025-07-14,185.33
 2025-07-15,186.15
 ...
+
+
+
+
+
 👨‍💻 Author
 Tanishq Tiwari
 📬 txnishq28
+
+
+
 
 ⭐️ Star This Repo
 If you found this helpful, please give the project a ⭐ on GitHub! It helps others discover it too!
 
 
+
+
+
+
 Would you like me to:
 - Add this to your repo directly?
 - Include setup instructions for Streamlit or Gradio version?
+
+
+
 
 Let me know and I can customize further
